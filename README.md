@@ -1,3 +1,9 @@
+## Everdays Assessment 
+
+The goal for this assessment was to create a web application that displays funeral home locations within Michigan while completing certain requirements.The webpage must pass the funeral home data using redux rather than using props. The webpage must also have display funeral homes's name, address, and image or image placeholder if no image was provided. The webpage must also have a sticky header at the top of the page with certain stylings. All while having an appropriate design for multiple device types (mobile,tablet,desktop).
+
+The languages, frameworks and libraries for this assessment are NextJs, typescript, Redux toolkit, SASS, and axios.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
