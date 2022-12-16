@@ -2,6 +2,14 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-}
 
-module.exports = nextConfig
+  images: {
+    domains: [
+      'i.imgur.com',
+      'ak-cache.legacy.net',
+      'requiem-dashboard-media.s3.amazonaws.com',
+    ],
+  },
+};
+
+module.exports = nextConfig;
